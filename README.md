@@ -1,6 +1,6 @@
 # Oi!
 
-Sou estudante de Bacharelado em Tecnologia da Informação pelo IMD/UFRN e Técnico em Informática pelo IFRN. Atualmente, estou me aprofundando em Python para o aprendizado de Machine Learning e Ciência de Dados, além de estudar Protheus, AdvPL e SQL para o desenvolvimento de soluções.
+Sou estudante de Bacharelado em Tecnologia da Informação pelo IMD/UFRN e Técnico em Informática pelo IFRN. Atualmente, estou aprofundando meus estudos em Python voltados para Machine Learning e Ciência de Dados, além de estudar Protheus, AdvPL e SQL para o desenvolvimento de soluções.
 
 ---
 
