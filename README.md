@@ -1,6 +1,6 @@
 # Oi!
 
-Sou estudante do Bacharelado em Tecnologia da Informação pelo IMD/UFRN, Técnico em Informática pelo IFRN, e apaixonado por computação.
+Sou estudante de Bacharelado em Tecnologia da Informação pelo IMD/UFRN e Técnico em Informática pelo IFRN. Atualmente, estou me aprofundando em Python para o aprendizado de Machine Learning e Ciência de Dados, além de estudar Protheus, AdvPL e SQL para o desenvolvimento de soluções.
 
 ---
 
